@@ -1,0 +1,30 @@
+﻿{record}
+	{name}TITLE_HOMEPAGE{/name}
+	{ru}Домашняя страница{/ru}
+	{en}Homepage{/en}
+	{de}Homepage{/de}
+{/record}
+{record}
+	{name}TITLE_BIO{/name}
+	{ru}Биография{/ru}
+	{en}Bio{/en}
+	{de}Lebenslauf{/de}
+{/record}
+{record}
+	{name}TITLE_PROJECTS{/name}
+	{ru}Проекты{/ru}
+	{en}Projects{/en}
+	{de}Projecte{/de}
+{/record}
+{record}
+	{name}TITLE_CONTACTS{/name}
+	{ru}Контакты{/ru}
+	{en}Contacts{/en}
+	{de}Kontakte{/de}
+{/record}
+{record}
+	{name}TITLE_ERROR404{/name}
+	{ru}Ошибка 404: Страница не найдена{/ru}
+	{en}Error 404: Page not found{/en}
+	{de}Fehler 404: Seite nicht gefunden{/de}
+{/record}

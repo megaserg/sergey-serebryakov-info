@@ -1,0 +1,52 @@
+{record}
+	{name}CONTACTS_IAMONLINE{/name}
+	{ru}Я в интернете:{/ru}
+	{en}My online accounts:{/en}
+{/record}
+
+{record}
+	{name}CONTACTS_MYPAGES{/name}
+	{ru}
+		<!-- <li>Моя <a href="http://home.onego.ru/~serebryakov/webcam/">веб-камера</a></li> -->
+		<li>Я <a href="http://vk.com/megaserg">в Контакте</a></li>
+		<li>Я <a href="http://facebook.com/megaserg">в Facebook</a></li>
+		<li>Я <a href="http://twitter.com/megaserg">в Twitter</a></li>
+		<li>Я <a href="http://megaserg.livejournal.com">в LiveJournal</a></li>
+		<li>Я <a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22663617">на TopCoder</a></li>
+	{/ru}
+	{en}
+		<li>I'm <a href="http://vk.com/megaserg">on VK</a></li>
+		<li>I'm <a href="http://facebook.com/megaserg">on Facebook</a></li>
+		<li>I'm <a href="http://twitter.com/megaserg">on Twitter</a> (ru+en)</li>
+		<li>I'm <a href="http://megaserg.livejournal.com">on LiveJournal</a> (ru)</li>
+		<li>I'm <a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22663617">on TopCoder</a></li>
+	{/en}
+{/record}
+
+{record}
+	{name}CONTACTS_HOWTOFINDME{/name}
+	{ru}Как меня найти?{/ru}
+	{en}How to find me?{/en}
+{/record}
+
+{record}
+	{name}CONTACTS_MYEMAILS{/name}
+	{ru}
+		<li>Мой ICQ-номер: <a href="http://web.icq.com/305299251">305299251</a></li>
+		<li>Мой JID: megaserg<span class="hidden">something</span>@<span class="hidden">once more</span>jabber.<span class="hidden">and more</span>spbu.ru</li>
+		<li>Моя почта: <span class="reversecode">moc.liamg@gresagem</span></li>
+		<li>Я в Skype: <a href="callto://eggemars">eggemars</a></li>
+	{/ru}
+	{en}
+		<li>My ICQ: <a href="http://web.icq.com/305299251">305299251</a></li>
+		<li>My JID: megaserg<span class="hidden">something</span>@<span class="hidden">once more</span>jabber.<span class="hidden">and more</span>spbu.ru</li>
+		<li>My e-mail: <span class="reversecode">moc.liamg@gresagem</span></li>
+		<li>My Skype: <a href="callto://eggemars">eggemars</a></li>
+	{/en}
+{/record}
+
+{record}
+	{name}CONTACTS_DONTCOPY{/name}
+	{ru}не пытайтесь копировать мой e-mail, хи-хи{/ru}
+	{en}don't even try to copy my e-mail, robots{/en}
+{/record}

@@ -1,0 +1,38 @@
+﻿{record}
+	{name}BIO_BORNANDSTUDY{/name}
+	{ru}
+		Я родился 16 июля 1991 года в <a href="http://www.ptz.ru">Петрозаводске</a>.<br />
+		В 1997-м году пошёл в <a href="http://school5.ptz.iso.karelia.ru">школу №5</a>, где учился с первого по четвёртый класс.<br />
+		В 2001-м году перешёл в <a href="http://licei-yl.narod.ru">Университетский лицей</a>, который закончил в 2008-м с золотой медалью.<br />
+		Учусь на пятом курсе <a href="http://www.math.spbu.ru" title="математико-механический факультет">мат-меха</a> <a href="http://www.spbu.ru" title="Санкт-Петербургский государственный университет">СПбГУ</a>, специальность &laquo;<acronym title="математическое обеспечение и администрирование информационных систем">матобес</acronym>&raquo;, кафедра <a href="http://se.math.spbu.ru">системного программирования</a> (<a href="http://vk.com/mmse08">группа 545</a>, специализация <acronym title="технологии программного обеспечения">ТПО</acronym>).<br />
+	{/ru}
+	{en}
+		I was born on July 16th, 1991 in <a href="http://www.ptz.ru">Petrozavodsk</a>, Russia.<br />
+		In 1997, I went to <a href="http://school5.ptz.iso.karelia.ru">5th school</a> and have been studying there for four years.<br />
+		In 2001, I transferred to <a href="http://licei-yl.narod.ru">University Lyceum</a> and graduated in 2008 with a gold medal (cum laude).<br />
+		Currently I'm on the 5th year of the <a href="http://www.math.spbu.ru">Department of Mathematics and Mechanics</a> of <a href="http://www.spbu.ru" title="Saint Petersburg State University">SPbU</a>, majoring in &laquo;<acronym title="Software and administration of information systems">matobes</acronym>&raquo;, Chair of Software Engineering (<a href="http://vk.com/mmse08">group 545</a>, specializing in software technologies).<br />
+	{/en}
+	{de}
+		Ich wurde am 16. Juli, 1991 in <a href="http://www.ptz.ru">Petrozawodsk</a>, Russland geboren.<br />
+		In 1997, ich bin in 5. Schule eingetritt und habe vier Jahre lang dort studiert.<br />
+		...
+	{/de}
+{/record}
+
+{record}
+	{name}BIO_WORK{/name}
+	{ru}
+		Выпускник <a href="http://vk.com/club53345">летней школы</a> <a href="http://www.openwaygroup.com">OpenWay</a> (июль&ndash;август 2010).<br />
+		Стажировался в&nbsp;питерском офисе <a href="http://www.google.com">Google</a> (октябрь 2010 &ndash; апрель 2011),
+		в&nbsp;токийском офисе <a href="http://www.google.co.jp">Google</a> (август&ndash;октябрь 2011)
+		и в&nbsp;офисе <a href="http://www.facebook.com">Facebook</a> в&nbsp;Калифорнии (июнь&ndash;август 2012).<br />
+		Сейчас стажируюсь в&nbsp;<a href="http://www.jetbrains.com">JetBrains</a> в&nbsp;Санкт-Петербурге.
+	{/ru}
+	{en}
+		Graduated from <a href="http://www.openwaygroup.com">OpenWay</a> <a href="http://vk.com/club53345">summer school</a> (Jul&ndash;Aug 2010).<br />
+		Been interning at <a href="http://www.google.com">Google</a> in St.Petersburg (Oct 2010 &ndash; Apr 2011),
+		<a href="http://www.google.co.jp">Google</a> in Tokyo (Aug&ndash;Oct 2011)
+		and <a href="http://www.facebook.com">Facebook</a> in California (Jun&ndash;Aug 2012).<br />
+		Currently interning at <a href="http://www.jetbrains.com">JetBrains</a> in St.Petersburg.
+	{/en}
+{/record}

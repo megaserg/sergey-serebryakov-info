@@ -1,0 +1,12 @@
+﻿{record}
+	{name}MESSAGE1{/name}
+	{ru}Сообщение Один{/ru}
+	{en}Message One{/en}
+	{de}Nachricht Eins{/de}
+{/record}
+{record}
+	{name}MESSAGE2{/name}
+	{ru}Сообщение Два %SUPER_NUMBER% тут{/ru}
+	{en}Message Two %SUPER_NUMBER% here{/en}
+	{de}Nachricht Zwei %SUPER_NUMBER% hier{/de}
+{/record}

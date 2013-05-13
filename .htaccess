@@ -1,0 +1,24 @@
+Options -Multiviews
+
+<FilesMatch "\.(inc|tpl|dic)$">
+	Order allow,deny
+	Deny from all
+</FilesMatch>
+
+RewriteEngine on
+
+# projects
+RewriteRule ^clock/?$ projects/clock/ [L]
+RewriteRule ^gmail/?$ projects/gmail/ [L]
+RewriteRule ^timus/?$ projects/timus/ [L]
+RewriteRule ^quest/?$ projects/quest/ [L]
+RewriteRule ^soft/?$ projects/soft/ [L]
+RewriteRule ^phx/?$ projects/phx/ [L]
+RewriteRule ^unique/?$ projects/unique/ [L]
+
+# lang and page
+RewriteRule ^(de|en|ru)/?$ /index.php?lang=$1 [L,PT]
+RewriteRule ^([^./]+)/?$ /index.php?page=$1 [L,PT]
+RewriteRule ^(de|en|ru)/([^./]+)/?$ /index.php?lang=$1&page=$2 [L,PT]
+
+ErrorDocument 404 /404/

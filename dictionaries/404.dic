@@ -1,0 +1,37 @@
+﻿{record}
+	{name}404_SORRYNOTFOUND{/name}
+	{ru}Извините, такой страницы <font color="red">не нашлось</font>.{/ru}
+	{en}Sorry, this page <font color="red">could not be found</font>.{/en}
+{/record}
+
+{record}
+	{name}404_LISTOFREASONS{/name}
+	{ru}
+		Это могло произойти по следующим причинам:
+		<ul>
+			<li>Эта страница в разработке прямо сейчас.</li>
+			<li>Адрес был набран неправильно.</li>
+			<li>Такой страницы здесь вообще никогда не было.</li>
+			<li>Раньше эта страница здесь была, а теперь пропала.</li>
+		</ul>
+	{/ru}
+	{en}
+		it could happen because of any of the following reasons:
+		<ul>
+			<li>This page is under development right now.</li>
+			<li>The address was mistyped.</li>
+			<li>This page has never been here.</li>
+			<li>This page has been here, but somehow disappeared.</li>
+		</ul>
+	{/en}
+{/record}
+
+{record}
+	{name}404_DROPALETTER{/name}
+	{ru}
+		Если вам кажется, что я подстроил это нарочно, <a href="mailto:megaserg%5Bat%5Dgmail%5Bdot%5Dcom?subject=Missing%20Page%20on%20sergey.serebryakov.info">напишите мне письмо</a>.
+	{/ru}
+	{en}
+		If you think this page is unintentionally left blank, <a href="mailto:megaserg%5Bat%5Dgmail%5Bdot%5Dcom?subject=Missing%20Page%20on%20sergey.serebryakov.info">drop me a letter</a>.
+	{/en}
+{/record}
