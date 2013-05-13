@@ -1,4 +1,4 @@
-﻿{record}
+{record}
 	{name}404_SORRYNOTFOUND{/name}
 	{ru}Извините, такой страницы <font color="red">не нашлось</font>.{/ru}
 	{en}Sorry, this page <font color="red">could not be found</font>.{/en}

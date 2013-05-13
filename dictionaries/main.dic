@@ -1,4 +1,4 @@
-﻿{record}
+{record}
 	{name}MAIN_IMAGE_PLACEHOLDER{/name}
 	{ru}(здесь должна быть картинка){/ru}
 	{en}(an image should be here){/en}
@@ -24,7 +24,7 @@
 {/record}
 {record}
 	{name}MAIN_WHATILOVE{/name}
-	{ru}Люблю чтение, программирование, иностранные языки, интернет и мультфильмы.{/ru}
-	{en}I like reading, programming, foreign languages, internet and cartoons.{/en}
-	{de}Ich liebe Lesen, Programmieren, Fremdsprachen, Internet und Zeichentrickfilme.{/de}
+	{ru}Люблю чтение, программирование и иностранные языки.{/ru}
+	{en}I like reading, programming and foreign languages.{/en}
+	{de}Ich liebe Lesen, Programmieren und Fremdsprachen.{/de}
 {/record}

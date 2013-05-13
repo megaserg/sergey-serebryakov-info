@@ -1,4 +1,4 @@
-﻿<?
+<?
 require_once "template_utils.php";
 require_once "fillers/AbstractFiller.php";
 

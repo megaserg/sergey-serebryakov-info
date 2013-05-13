@@ -7,5 +7,5 @@
 {record}
 	{name}FOOTER_VALIDCODE{/name}
 	{ru}Я люблю <a href="/typo.html">типографику</a> и <a href="http://validator.w3.org/check?uri=referer">валидный код</a>.{/ru}
-	{en}I like <a href="/typo.html">typographics</a> and <a href="http://validator.w3.org/check?uri=referer">valid code</a>.{/en}
+	{en}I like <a href="/typo.html">typography</a> and <a href="http://validator.w3.org/check?uri=referer">valid code</a>.{/en}
 {/record}

@@ -2,7 +2,8 @@
 	<td>
 		<span class="smallheader">
 			{{404_SORRYNOTFOUND}}
-		</span><br /><br />		
+		</span><br /><br />
+		
 		<div class="leftalign">
 			{{404_LISTOFREASONS}}
 			{{404_DROPALETTER}}

@@ -1,4 +1,6 @@
 <?php
+mb_internal_encoding('UTF-8');
+
 require_once "language_config.php";
 require_once "fillers/IndexFiller.php";
 
