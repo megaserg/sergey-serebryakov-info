@@ -37,23 +37,23 @@
 					<li>
 						Talks I've given for the terrific seminar led by <a href="http://edu.dluciv.name">Dmitry Luciv</a>:
 						<ul>
-							<li><a href="">The NoSQL-Movement (en)</a></li>
-							<li><a href="">Native Object-Oriented Databases (en)</a></li>
-							<li><a href="">Eventual Consistency and the CAP Theorem (ru)</a></li>
+							<li><a href="http://serebryakov.info/talks/nosql_mvmnt.pdf">The NoSQL-Movement (en)</a></li>
+							<li><a href="http://serebryakov.info/talks/native_oo_db.pdf">Native Object-Oriented Databases (en)</a></li>
+							<li><a href="http://serebryakov.info/talks/cap_and_ec.pdf">Eventual Consistency and the CAP Theorem (ru)</a></li>
 						</ul>
 					</li>
-					<li>Talk on <a href="">Untyped lambda calculus (ru)</a>, given twice</li>
-					<li>Talk on <a href="">Microsoft ASP.NET Ajax (ru)</a>, given twice</li>
+					<li>Talk on <a href="http://serebryakov.info/talks/lambda_calculus.pdf">Untyped lambda calculus (ru)</a>, given twice</li>
+					<li>Talk on <a href="http://serebryakov.info/talks/aspnet_ajax.pdf">Microsoft ASP.NET Ajax (ru)</a>, given twice</li>
 				</ul>
 			</li>
 			<li>
 				Research projects:
 				<ul>
-					<li><a href="">Project build technique with aggressive output reuse</a><br/>
+					<li><a href="http://serebryakov.info/diploma/Serebryakov_Report_545.pdf">Project build technique with aggressive output reuse (ru)</a> (<a href="http://serebryakov.info/diploma/Serebryakov_Slides_545.pdf">slides</a>)<br/>
 					(graduate paper, advisor: Dmitry Boulytchev, 2012–2013)</li>
-					<li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_445.pdf">3D Algorithms in Medicine: Constructing 3D model of a human head by anatomical landmarks</a><br/>
+					<li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_445.pdf">3D Algorithms in Medicine: Constructing 3D model of a human head by anatomical landmarks (ru)</a><br/>
 					(term paper, advisor: Alexander Petrov, 2011–2012)</li>
-					<li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_345.pdf">Computer Vision: Reconstruction of moving object’s position by noisy video observations</a><br/>
+					<li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_345.pdf">Computer Vision: Reconstruction of moving object’s position by noisy video observations (ru)</a><br/>
 					(term paper, advisor: Alexander Vakhitov, 2010–2011)</li>
 				</ul>
 			</li>

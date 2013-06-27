@@ -18,9 +18,9 @@
 {/record}
 {record}
 	{name}MAIN_LIVEANDLEARN{/name}
-	{ru}Живу в <a href="%PETERHOF_LINK%">Петергофе</a> и учусь в <a href="%SPBU_LINK%">СПбГУ</a>.{/ru}
-	{en}I'm living in <a href="%PETERHOF_LINK%">Peterhof</a>, Russia and studying at <a href="%SPBU_LINK%">Saint Petersburg State University</a>.{/en}
-	{de}Ich lebe in <a href="%PETERHOF_LINK%">Peterhof</a>, Russland und studiere in der <a href="%SPBU_LINK%">Staatliche Universität Sankt Petersburg</a>.{/de}
+	{ru}Живу в <a href="%PETERHOF_LINK%">Петергофе</a>, учусь в <a href="%SPBU_LINK%">СПбГУ</a>, работаю в <a href="%JETBRAINS_LINK%">JetBrains</a>.{/ru}
+	{en}I'm living in <a href="http://www.saint-petersburg.com/peterhof/">Peterhof</a>, Russia, studying at <a href="http://eng.spbu.ru/">Saint Petersburg State University</a> and working at <a href="%JETBRAINS_LINK%">JetBrains</a>.{/en}
+	{de}Ich lebe in <a href="http://www.saint-petersburg.com/peterhof/">Peterhof</a>, Russland, studiere in der <a href="http://eng.spbu.ru/">Staatliche Universität Sankt Petersburg</a> und arbeite in <a href="%JETBRAINS_LINK%">JetBrains</a>.{/de}
 {/record}
 {record}
 	{name}MAIN_WHATILOVE{/name}
