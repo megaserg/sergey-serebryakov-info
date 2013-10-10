@@ -8,12 +8,13 @@ class MainFiller extends AbstractFiller {
 		$content = $this -> content;
 		$content = substMessages($content, $this -> dictionary, $lang);
 		
-		$peterhof_link = "http://www.peterhof.ru";
-		$spbu_link = "http://www.spbu.ru";
-		$jetbrains_link = "http://www.jetbrains.com";
-		$content = str_replace("%PETERHOF_LINK%", $peterhof_link, $content);
-		$content = str_replace("%SPBU_LINK%", $spbu_link, $content);
-		$content = str_replace("%JETBRAINS_LINK%", $jetbrains_link, $content);
+		$town_link = "http://www.redwoodcity.org";
+		//$spbu_link = "http://www.spbu.ru";
+		$company_link = "http://www.rocketfuel.com";
+		
+		$content = str_replace("%TOWN_LINK%", $town_link, $content);
+		//$content = str_replace("%SPBU_LINK%", $spbu_link, $content);
+		$content = str_replace("%COMPANY_LINK%", $company_link, $content);
 		
 		$this -> content = $content;
 	}
