@@ -1,3 +1,3 @@
 <?
-$DEFAULT_LANGUAGE = "ru";
+$DEFAULT_LANGUAGE = "en";
 ?>
