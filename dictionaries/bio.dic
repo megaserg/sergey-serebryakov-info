@@ -22,21 +22,24 @@
 {record}
 	{name}BIO_WORK{/name}
 	{ru}
-		Стажировался в&nbsp;<a href="http://vk.com/club53345">летней школе</a> <a href="http://www.openwaygroup.com">OpenWay</a> (июль&ndash;август 2010),
-		в&nbsp;питерском офисе <a href="http://www.google.com">Google</a> (октябрь 2010 &ndash; апрель 2011),
-		в&nbsp;токийском офисе <a href="http://www.google.co.jp">Google</a> (август&ndash;октябрь 2011),
-		в&nbsp;офисе <a href="http://www.facebook.com">Facebook</a> в&nbsp;Калифорнии (июнь&ndash;август 2012)
-		и в&nbsp;офисе <a href="http://www.jetbrains.com">JetBrains</a> в&nbsp;Санкт-Петербурге (ноябрь 2012 &ndash; август 2013).<br />
-		Сейчас работаю программистом в&nbsp;<a href="http://www.rocketfuel.com">Rocket Fuel</a> в&nbsp;Калифорнии.
+		Стажировался в&nbsp;<a href="http://vk.com/club53345">летней школе</a> <a href="http://www.openwaygroup.com">OpenWay</a> (2010),
+		в&nbsp;питерском офисе <a href="http://www.google.com">Google</a> (2010&ndash;2011),
+		в&nbsp;токийском офисе <a href="http://www.google.co.jp">Google</a> (2011),
+		в&nbsp;офисе <a href="http://www.facebook.com">Facebook</a> в&nbsp;Калифорнии (2012)
+		и в&nbsp;офисе <a href="http://www.jetbrains.com">JetBrains</a> в&nbsp;Санкт-Петербурге (2012&ndash;2013);
+		работал в&nbsp;<a href="http://www.rocketfuel.com">Rocket Fuel</a> в&nbsp;Калифорнии (2013&ndash;2014).<br />
+		Сейчас работаю в &nbsp;<a href="http://www.twitter.com">Твиттере</a> в&nbsp;Сан-Франциско.
 	{/ru}
 	{en}
 		Been an intern at 
-		<a href="http://www.openwaygroup.com">OpenWay</a> <a href="http://vk.com/club53345">summer school</a> (Jul&ndash;Aug 2010),
-		<a href="http://www.google.com">Google</a> in St.Petersburg (Oct 2010 &ndash; Apr 2011),
-		<a href="http://www.google.co.jp">Google</a> in Tokyo (Aug&ndash;Oct 2011),
-		<a href="http://www.facebook.com">Facebook</a> in California (Jun&ndash;Aug 2012)
-		and <a href="http://www.jetbrains.com">JetBrains</a> in St.Petersburg (Nov 2012 &ndash; Aug 2013).<br />
-		Currently I'm a software engineer at <a href="http://www.rocketfuel.com">Rocket Fuel</a> in California.
+		<a href="http://www.openwaygroup.com">OpenWay</a> <a href="http://vk.com/club53345">summer school</a> (2010),
+		<a href="http://www.google.com">Google</a> in St.Petersburg (2010&ndash;2011),
+		<a href="http://www.google.co.jp">Google</a> in Tokyo (2011),
+		<a href="http://www.facebook.com">Facebook</a> in California (2012)
+		and <a href="http://www.jetbrains.com">JetBrains</a> in St.Petersburg (2012&ndash;2013);
+		worked at <a href="http://www.rocketfuel.com">Rocket Fuel</a> in California (2013&ndash;2014).<br />
+		Currently I'm a software engineer at <a href="http://www.twitter.com">Twitter</a> in San Francisco.
+
 	{/en}
 {/record}
 
