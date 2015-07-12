@@ -36,11 +36,11 @@
 {record}
 	{name}CONTACTS_MYEMAILS{/name}
 	{ru}
-		<li>Моя почта: <span class="reversecode">moc.liamg@gresagem</span></li>
+		<li>Моя почта: <span class="reversecode">ofni.vokayrberes@yegres</span></li>
 		<li>Я в Skype: <a href="callto://eggemars">eggemars</a></li>
 	{/ru}
 	{en}
-		<li>My e-mail: <span class="reversecode">moc.liamg@gresagem</span></li>
+		<li>My e-mail: <span class="reversecode">ofni.vokayrberes@yegres</span></li>
 		<li>My Skype: <a href="callto://eggemars">eggemars</a></li>
 	{/en}
 {/record}
