@@ -1,4 +1,4 @@
-<img src="/avatars/me_winter.jpg" width="120" height="155" border="0" alt="{{MAIN_IMAGE_PLACEHOLDER}}" /><br /><br />
+<img src="/avatars/me_simpsons.png" width="180" height="180" border="0" alt="{{MAIN_IMAGE_PLACEHOLDER}}" /><br /><br />
 {{MAIN_IAMSERGEY}}<br />
 {{MAIN_THEYCALLME}}<br />
 {{MAIN_LIVEANDLEARN}}<br />
