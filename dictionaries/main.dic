@@ -19,7 +19,7 @@
 {record}
 	{name}MAIN_LIVEANDLEARN{/name}
 	{ru}Живу в <a href="%TOWN_LINK%">Сан-Франциско</a>, работаю в <a href="%COMPANY_LINK%">Твиттере</a>.{/ru}
-	{en}I'm living in <a href="%TOWN_LINK%">San Francisco</a>, California and working at <a href="%COMPANY_LINK%">Twitter</a>.{/en}
+	{en}I live in <a href="%TOWN_LINK%">San Francisco</a>, California and work at <a href="%COMPANY_LINK%">Twitter</a>.{/en}
 	{de}Ich lebe in <a href="%TOWN_LINK%">San Francisco</a>, Kalifornien und arbeite in <a href="%COMPANY_LINK%">Twitter</a>.{/de}
 {/record}
 {record}
