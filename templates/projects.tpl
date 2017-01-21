@@ -63,9 +63,9 @@
         <ul>
           <li><a href="http://serebryakov.info/diploma/Serebryakov_Report_545.pdf">Project build technique with aggressive output reuse (ru)</a> (<a href="http://serebryakov.info/diploma/Serebryakov_Slides_545.pdf">slides</a>)<br/>
           (graduate paper, advisor: Dmitry Boulytchev, 2012–2013)</li>
-          <li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_445.pdf">3D Algorithms in Medicine: Constructing 3D model of a human head by anatomical landmarks (ru)</a><br/>
+          <li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_445.pdf">3D Algorithms in Medicine: Constructing 3D model of a human head from anatomical landmarks (ru)</a><br/>
           (term paper, advisor: Alexander Petrov, 2011–2012)</li>
-          <li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_345.pdf">Computer Vision: Reconstruction of moving object’s position by noisy video observations (ru)</a><br/>
+          <li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_345.pdf">Computer Vision: Reconstructing moving object position from noisy video observations (ru)</a><br/>
           (term paper, advisor: Alexander Vakhitov, 2010–2011)</li>
         </ul>
       </li>

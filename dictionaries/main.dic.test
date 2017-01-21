@@ -1,30 +1,30 @@
 {record}
-	{name}MAIN_IMAGE_PLACEHOLDER{/name}
-	{ru}(здесь должна быть картинка){/ru}
-	{en}(an image should be here){/en}
-	{de}(ein Bild muss hier sein){/de}
+    {name}MAIN_IMAGE_PLACEHOLDER{/name}
+    {ru}(здесь должна быть картинка){/ru}
+    {en}(an image should be here){/en}
+    {de}(ein Bild muss hier sein){/de}
 {/record}
 {record}
-	{name}MAIN_IAMSERGEY{/name}
-	{ru}Я &mdash; Сергей Серебряков.{/ru}
-	{en}I'm Sergey Serebryakov.{/en}
-	{de}Ich bin Sergey Serebryakov.{/de}
+    {name}MAIN_IAMSERGEY{/name}
+    {ru}Я &mdash; Сергей Серебряков.{/ru}
+    {en}I'm Sergey Serebryakov.{/en}
+    {de}Ich bin Sergey Serebryakov.{/de}
 {/record}
 {record}
-	{name}MAIN_THEYCALLME{/name}
-	{ru}В интернете меня зовут <b>megaserg</b>.{/ru}
-	{en}They call me <b>megaserg</b> at the internet.{/en}
-	{de}Mein Nickname ist <b>megaserg</b>.{/de}
+    {name}MAIN_THEYCALLME{/name}
+    {ru}В интернете меня зовут <b>megaserg</b>.{/ru}
+    {en}They call me <b>megaserg</b> at the internet.{/en}
+    {de}Mein Nickname ist <b>megaserg</b>.{/de}
 {/record}
 {record}
-	{name}MAIN_LIVEANDLEARN{/name}
-	{ru}Живу в <a href="%PETERHOF_LINK%">Петергофе</a> и учусь в <a href="%SPBU_LINK%">СПбГУ</a>.{/ru}
-	{en}I'm living in <a href="%PETERHOF_LINK%">Peterhof</a>, Russia and studying at <a href="%SPBU_LINK%">Saint Petersburg State University</a>.{/en}
-	{de}Ich lebe in <a href="%PETERHOF_LINK%">Peterhof</a>, Russland und studiere in der <a href="%SPBU_LINK%">Staatliche Universität Sankt Petersburg</a>.{/de}
+    {name}MAIN_LIVEANDLEARN{/name}
+    {ru}Живу в <a href="%PETERHOF_LINK%">Петергофе</a> и учусь в <a href="%SPBU_LINK%">СПбГУ</a>.{/ru}
+    {en}I'm living in <a href="%PETERHOF_LINK%">Peterhof</a>, Russia and studying at <a href="%SPBU_LINK%">Saint Petersburg State University</a>.{/en}
+    {de}Ich lebe in <a href="%PETERHOF_LINK%">Peterhof</a>, Russland und studiere in der <a href="%SPBU_LINK%">Staatliche Universität Sankt Petersburg</a>.{/de}
 {/record}
 {record}
-	{name}MAIN_WHATILOVE{/name}
-	{ru}Люблю чтение, программирование, интернет и мультфильмы.{/ru}
-	{en}I like reading, programming, internet and cartoons.{/en}
-	{de}Ich liebe Lesen, Programmieren, Internet und Zeichentrickfilme.{/de}
+    {name}MAIN_WHATILOVE{/name}
+    {ru}Люблю чтение, программирование, интернет и мультфильмы.{/ru}
+    {en}I like reading, programming, internet and cartoons.{/en}
+    {de}Ich liebe Lesen, Programmieren, Internet und Zeichentrickfilme.{/de}
 {/record}

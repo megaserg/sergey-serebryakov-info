@@ -1,8 +1,8 @@
 Options -Multiviews
 
 <FilesMatch "\.(inc|tpl|dic)$">
-	Order allow,deny
-	Deny from all
+    Order allow,deny
+    Deny from all
 </FilesMatch>
 
 RewriteEngine on

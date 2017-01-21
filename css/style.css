@@ -1,140 +1,140 @@
 body
 {
-	font-family: Georgia, "Palatino Linotype", Sylfaen, Tahoma, serif;
-	font-size: 12pt;
-	background-color: #C8C8FF;
+    font-family: Georgia, "Palatino Linotype", Sylfaen, Tahoma, serif;
+    font-size: 12pt;
+    background-color: #C8C8FF;
 }
 
 table
 {
-	border: 0px;
+    border: 0px;
 }
 
 td
 {
-	text-align: center;
-	vertical-align: middle;
-	border: 0px solid black;
+    text-align: center;
+    vertical-align: middle;
+    border: 0px solid black;
 }
 
 .leftalign
 {
-	text-align: left;
-	vertical-align: top;
+    text-align: left;
+    vertical-align: top;
 }
 
 a:visited, a:link
 {
-	color: blue;
+    color: blue;
 }
 
 a:hover, a:active
 {
-	color: green;
+    color: green;
 }
 
 td.header
 {
-	
+
 }
 
 div.headerDiv
 {
-	font-size: 18pt;
-	font-weight: bold;
-	padding: 15px;
+    font-size: 18pt;
+    font-weight: bold;
+    padding: 15px;
 }
 
 td.content
 {
-	padding: 25px;
+    padding: 25px;
 }
 
 td.footer
 {
-	border-top: 1px solid navy;
-	font-size: 9pt;
-	padding: 15px;
+    border-top: 1px solid navy;
+    font-size: 9pt;
+    padding: 15px;
 }
 
 .menucell
 {
-	width: 25%;
+    width: 25%;
 }
 
 .menulink, .currentmenulink {
-	display: block;
-	padding-bottom: 3px;
-	padding-top: 3px;
+    display: block;
+    padding-bottom: 3px;
+    padding-top: 3px;
 }
 
 a.menulink
 {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 a.menulink, a.menulink:visited
 {
-	background-color: #9999FF;
-	color: black;
+    background-color: #9999FF;
+    color: black;
 }
 
 a.menulink:hover
 {
-	background-color: #FF8C00; /*darkorange*/
-	color: yellow;
+    background-color: #FF8C00; /*darkorange*/
+    color: yellow;
 }
 
 span.currentmenulink
 {
-	background-color: navy;
-	color: white;
-	font-weight: bold;
+    background-color: navy;
+    color: white;
+    font-weight: bold;
 }
 
 span.smallheader
 {
-	font-size: 14pt;	
+    font-size: 14pt;
 }
 
 span.smallnote
 {
-	font-size: 9pt;
-	font-style: italic;
-	color: #666666;
+    font-size: 9pt;
+    font-style: italic;
+    color: #666666;
 }
 
 .alert
 {
-	 background-color: white;
-	 border: 5px solid red;
-	 padding: 20px;
+     background-color: white;
+     border: 5px solid red;
+     padding: 20px;
 }
 
 .hidden
 {
-	display: none;
+    display: none;
 }
 
 .reversecode
 {
-	unicode-bidi: bidi-override;
-	direction: rtl;
+    unicode-bidi: bidi-override;
+    direction: rtl;
 }
 
 acronym
 {
-	padding-bottom: 0px;
-	border-bottom: 1px dotted black;
-	cursor: help;
+    padding-bottom: 0px;
+    border-bottom: 1px dotted black;
+    cursor: help;
 }
 
 /*
-	font.header {font-size: 14pt}
-	li {font-size: 12pt}
-	
-	.top-left {background: #ADC7FF url("img/top-left.gif") top left no-repeat;}
-	.top-right {background: url("img/top-right.gif") top right no-repeat;}
-	.bottom-left {background: url("img/bottom-left.gif") bottom left no-repeat;}
-	.bottom-right {background: url("img/bottom-right.gif") bottom right no-repeat;}
-	.content {padding-left: 20px; padding-right: 20px; padding-top: 5px; padding-bottom: 10px; border: 2px dashed #7777FF;}*/
+    font.header {font-size: 14pt}
+    li {font-size: 12pt}
+
+    .top-left {background: #ADC7FF url("img/top-left.gif") top left no-repeat;}
+    .top-right {background: url("img/top-right.gif") top right no-repeat;}
+    .bottom-left {background: url("img/bottom-left.gif") bottom left no-repeat;}
+    .bottom-right {background: url("img/bottom-right.gif") bottom right no-repeat;}
+    .content {padding-left: 20px; padding-right: 20px; padding-top: 5px; padding-bottom: 10px; border: 2px dashed #7777FF;}*/

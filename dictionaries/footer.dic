@@ -1,16 +1,16 @@
 {record}
-	{name}FOOTER_COPYRIGHT{/name}
-	{ru}&copy; megaserg, 2007&mdash;%CURRENT_YEAR%.{/ru}
-	{en}&copy; megaserg, 2007&ndash;%CURRENT_YEAR%.{/en}
-	{de}&copy; megaserg, 2007&ndash;%CURRENT_YEAR%.{/de}
+    {name}FOOTER_COPYRIGHT{/name}
+    {ru}&copy; megaserg, 2007&mdash;%CURRENT_YEAR%.{/ru}
+    {en}&copy; megaserg, 2007&ndash;%CURRENT_YEAR%.{/en}
+    {de}&copy; megaserg, 2007&ndash;%CURRENT_YEAR%.{/de}
 {/record}
 {record}
-	{name}FOOTER_VALIDCODE{/name}
-	{ru}Я люблю <a href="/typo.html">типографику</a> и <a href="http://validator.w3.org/check?uri=referer">валидный код</a>.{/ru}
-	{en}I like <a href="/typo.html">typography</a> and <a href="http://validator.w3.org/check?uri=referer">valid code</a>.{/en}
+    {name}FOOTER_VALIDCODE{/name}
+    {ru}Я люблю <a href="/typo.html">типографику</a> и <a href="http://validator.w3.org/check?uri=referer">валидный код</a>.{/ru}
+    {en}I like <a href="/typo.html">typography</a> and <a href="http://validator.w3.org/check?uri=referer">valid code</a>.{/en}
 {/record}
 {record}
-	{name}FOOTER_GITHUB{/name}
-	{ru}Исходники этого сайта доступны на <a href="http://github.com/megaserg/sergey-serebryakov-info">github</a>.{/ru}
-	{en}The source of this website is available on <a href="http://github.com/megaserg/sergey-serebryakov-info">github</a>.{/en}
+    {name}FOOTER_GITHUB{/name}
+    {ru}Исходники этого сайта доступны на <a href="http://github.com/megaserg/sergey-serebryakov-info">github</a>.{/ru}
+    {en}The source of this website is available on <a href="http://github.com/megaserg/sergey-serebryakov-info">github</a>.{/en}
 {/record}

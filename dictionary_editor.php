@@ -16,11 +16,11 @@ echo "<h2>$dictionaryFile</h2>";
 echo "<form method=POST>";
 
 foreach ($dictionary as $name => $record) {
-	echo "$name<br />\n";
-	foreach ($record as $lang => $trans) {
-		echo "<b>$lang:</b> <input name=\"$name\" value=\"" . htmlspecialchars($trans) . "\" />\n";
-	}
-	echo "<br />\n";
+    echo "$name<br />\n";
+    foreach ($record as $lang => $trans) {
+        echo "<b>$lang:</b> <input name=\"$name\" value=\"" . htmlspecialchars($trans) . "\" />\n";
+    }
+    echo "<br />\n";
 }
 
 echo "</form>";

@@ -1,52 +1,52 @@
 {record}
-	{name}CONTACTS_IAMONLINE{/name}
-	{ru}Я в интернете:{/ru}
-	{en}My online accounts:{/en}
+    {name}CONTACTS_IAMONLINE{/name}
+    {ru}Я в интернете:{/ru}
+    {en}My online accounts:{/en}
 {/record}
 
 {record}
-	{name}CONTACTS_MYPAGES{/name}
-	{ru}
-		<!-- <li>Моя <a href="http://home.onego.ru/~serebryakov/webcam/">веб-камера</a></li> -->
-		<li>Я <a href="http://vk.com/megaserg">в Контакте</a></li>
-		<li>Я <a href="http://facebook.com/megaserg">в Facebook</a></li>
-		<li>Я <a href="http://twitter.com/megaserg">в Twitter</a></li>
-		<li>Я <a href="http://www.linkedin.com/in/megaserg">в LinkedIn</a></li>
-		<li>Я <a href="http://megaserg.livejournal.com">в LiveJournal</a></li>
-		<li>Я <a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22663617">на TopCoder</a></li>
-		<li>Я <a href="http://github.com/megaserg">на GitHub</a></li>
-	{/ru}
-	{en}
-		<li>I'm <a href="http://vk.com/megaserg">on VK</a></li>
-		<li>I'm <a href="http://facebook.com/megaserg">on Facebook</a></li>
-		<li>I'm <a href="http://twitter.com/megaserg">on Twitter</a> (ru+en)</li>
-		<li>I'm <a href="http://www.linkedin.com/in/megaserg">on LinkedIn</a></li>
-		<li>I'm <a href="http://megaserg.livejournal.com">on LiveJournal</a> (ru)</li>
-		<li>I'm <a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22663617">on TopCoder</a></li>
-		<li>I'm <a href="http://github.com/megaserg">on GitHub</a></li>
-	{/en}
+    {name}CONTACTS_MYPAGES{/name}
+    {ru}
+        <!-- <li>Моя <a href="http://home.onego.ru/~serebryakov/webcam/">веб-камера</a></li> -->
+        <li>Я <a href="http://vk.com/megaserg">в Контакте</a></li>
+        <li>Я <a href="http://facebook.com/megaserg">в Facebook</a></li>
+        <li>Я <a href="http://twitter.com/megaserg">в Twitter</a></li>
+        <li>Я <a href="http://www.linkedin.com/in/megaserg">в LinkedIn</a></li>
+        <li>Я <a href="http://megaserg.livejournal.com">в LiveJournal</a></li>
+        <li>Я <a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22663617">на TopCoder</a></li>
+        <li>Я <a href="http://github.com/megaserg">на GitHub</a></li>
+    {/ru}
+    {en}
+        <li>I'm <a href="http://vk.com/megaserg">on VK</a></li>
+        <li>I'm <a href="http://facebook.com/megaserg">on Facebook</a></li>
+        <li>I'm <a href="http://twitter.com/megaserg">on Twitter</a> (ru+en)</li>
+        <li>I'm <a href="http://www.linkedin.com/in/megaserg">on LinkedIn</a></li>
+        <li>I'm <a href="http://megaserg.livejournal.com">on LiveJournal</a> (ru)</li>
+        <li>I'm <a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22663617">on TopCoder</a></li>
+        <li>I'm <a href="http://github.com/megaserg">on GitHub</a></li>
+    {/en}
 {/record}
 
 {record}
-	{name}CONTACTS_HOWTOFINDME{/name}
-	{ru}Как меня найти?{/ru}
-	{en}How to find me?{/en}
+    {name}CONTACTS_HOWTOFINDME{/name}
+    {ru}Как меня найти?{/ru}
+    {en}How to find me?{/en}
 {/record}
 
 {record}
-	{name}CONTACTS_MYEMAILS{/name}
-	{ru}
-		<li>Моя почта: <span class="reversecode">ofni.vokayrberes@yegres</span></li>
-		<li>Я в Skype: <a href="callto://eggemars">eggemars</a></li>
-	{/ru}
-	{en}
-		<li>My e-mail: <span class="reversecode">ofni.vokayrberes@yegres</span></li>
-		<li>My Skype: <a href="callto://eggemars">eggemars</a></li>
-	{/en}
+    {name}CONTACTS_MYEMAILS{/name}
+    {ru}
+        <li>Моя почта: <span class="reversecode">ofni.vokayrberes@yegres</span></li>
+        <li>Я в Skype: <a href="callto://eggemars">eggemars</a></li>
+    {/ru}
+    {en}
+        <li>My e-mail: <span class="reversecode">ofni.vokayrberes@yegres</span></li>
+        <li>My Skype: <a href="callto://eggemars">eggemars</a></li>
+    {/en}
 {/record}
 
 {record}
-	{name}CONTACTS_DONTCOPY{/name}
-	{ru}не пытайтесь копировать мой e-mail, хи-хи{/ru}
-	{en}don't even try to copy my e-mail, robots{/en}
+    {name}CONTACTS_DONTCOPY{/name}
+    {ru}не пытайтесь копировать мой e-mail, хи-хи{/ru}
+    {en}don't even try to copy my e-mail, robots{/en}
 {/record}

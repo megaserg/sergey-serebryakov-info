@@ -1,30 +1,30 @@
 {record}
-	{name}MAIN_IMAGE_PLACEHOLDER{/name}
-	{ru}(здесь должна быть картинка){/ru}
-	{en}(an image should be here){/en}
-	{de}(ein Bild muss hier sein){/de}
+    {name}MAIN_IMAGE_PLACEHOLDER{/name}
+    {ru}(здесь должна быть картинка){/ru}
+    {en}(an image should be here){/en}
+    {de}(ein Bild muss hier sein){/de}
 {/record}
 {record}
-	{name}MAIN_IAMSERGEY{/name}
-	{ru}Я &mdash; Сергей Серебряков.{/ru}
-	{en}I'm Sergey Serebryakov.{/en}
-	{de}Ich bin Sergej Serebrjakow.{/de}
+    {name}MAIN_IAMSERGEY{/name}
+    {ru}Я &mdash; Сергей Серебряков.{/ru}
+    {en}I'm Sergey Serebryakov.{/en}
+    {de}Ich bin Sergej Serebrjakow.{/de}
 {/record}
 {record}
-	{name}MAIN_THEYCALLME{/name}
-	{ru}В интернете меня зовут <b>megaserg</b>.{/ru}
-	{en}They call me <b>megaserg</b> at the internet.{/en}
-	{de}Mein Nickname ist <b>megaserg</b>.{/de}
+    {name}MAIN_THEYCALLME{/name}
+    {ru}В интернете меня зовут <b>megaserg</b>.{/ru}
+    {en}They call me <b>megaserg</b> at the internet.{/en}
+    {de}Mein Nickname ist <b>megaserg</b>.{/de}
 {/record}
 {record}
-	{name}MAIN_LIVEANDLEARN{/name}
-	{ru}Живу в <a href="%TOWN_LINK%">Сан-Франциско</a>, работаю в <a href="%COMPANY_LINK%">Твиттере</a>.{/ru}
-	{en}I live in <a href="%TOWN_LINK%">San Francisco</a>, California and work at <a href="%COMPANY_LINK%">Twitter</a>.{/en}
-	{de}Ich lebe in <a href="%TOWN_LINK%">San Francisco</a>, Kalifornien und arbeite in <a href="%COMPANY_LINK%">Twitter</a>.{/de}
+    {name}MAIN_LIVEANDLEARN{/name}
+    {ru}Живу в <a href="%TOWN_LINK%">Сан-Франциско</a>, работаю в <a href="%COMPANY_LINK%">Твиттере</a>.{/ru}
+    {en}I live in <a href="%TOWN_LINK%">San Francisco</a>, California and work at <a href="%COMPANY_LINK%">Twitter</a>.{/en}
+    {de}Ich lebe in <a href="%TOWN_LINK%">San Francisco</a>, Kalifornien und arbeite in <a href="%COMPANY_LINK%">Twitter</a>.{/de}
 {/record}
 {record}
-	{name}MAIN_WHATILOVE{/name}
-	{ru}Люблю чтение, программирование и иностранные языки.{/ru}
-	{en}I like reading, programming and foreign languages.{/en}
-	{de}Ich liebe Lesen, Programmieren und Fremdsprachen.{/de}
+    {name}MAIN_WHATILOVE{/name}
+    {ru}Люблю чтение, программирование и иностранные языки.{/ru}
+    {en}I like reading, programming, and foreign languages.{/en}
+    {de}Ich liebe Lesen, Programmieren und Fremdsprachen.{/de}
 {/record}
