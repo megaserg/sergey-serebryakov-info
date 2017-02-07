@@ -10,7 +10,7 @@ class MainFiller extends AbstractFiller {
 
         $town_link = "http://sfgov.org/";
         //$spbu_link = "http://www.spbu.ru";
-        $company_link = "http://www.twitter.com";
+        $company_link = "http://www.tesla.com";
 
         $content = str_replace("%TOWN_LINK%", $town_link, $content);
         //$content = str_replace("%SPBU_LINK%", $spbu_link, $content);
