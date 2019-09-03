@@ -18,9 +18,9 @@
 {/record}
 {record}
     {name}MAIN_LIVEANDLEARN{/name}
-    {ru}Живу в <a href="%TOWN_LINK%">Сан-Франциско</a>, работаю в <a href="%COMPANY_LINK%">Тесла</a>.{/ru}
-    {en}I live in <a href="%TOWN_LINK%">San Francisco</a> and work at <a href="%COMPANY_LINK%">Tesla</a>.{/en}
-    {de}Ich lebe in <a href="%TOWN_LINK%">San Francisco</a> und arbeite in <a href="%COMPANY_LINK%">Tesla</a>.{/de}
+    {ru}Живу в <a href="%TOWN_LINK%">Сан-Франциско</a>, работаю в <a href="%COMPANY_LINK%">Круизе</a>.{/ru}
+    {en}I live in <a href="%TOWN_LINK%">San Francisco</a> and work at <a href="%COMPANY_LINK%">Cruise</a>.{/en}
+    {de}Ich lebe in <a href="%TOWN_LINK%">San Francisco</a> und arbeite in <a href="%COMPANY_LINK%">Cruise</a>.{/de}
 {/record}
 {record}
     {name}MAIN_WHATILOVE{/name}
