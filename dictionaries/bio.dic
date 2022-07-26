@@ -4,13 +4,20 @@
         Я родился в 1991-м году в <a href="http://www.ptz.ru">Петрозаводске</a>.<br />
         В 1997-м году пошёл в <a href="http://school5.karelia.ru">школу №5</a>, где учился с первого по четвёртый класс.<br />
         В 2001-м году перешёл в <a href="http://licei-yl.narod.ru">Университетский лицей</a>, который закончил в 2008-м с золотой медалью.<br />
-        В 2008-м году поступил на <a href="http://www.math.spbu.ru" title="математико-механический факультет">мат-мех</a> <a href="http://www.spbu.ru" title="Санкт-Петербургский государственный университет">СПбГУ</a>, специальность &laquo;<acronym title="математическое обеспечение и администрирование информационных систем">матобес</acronym>&raquo;, <a href="http://se.math.spbu.ru">кафедра системного программирования</a>, специализация <acronym title="технологии программного обеспечения">ТПО</acronym>, который закончил в 2013-м с дипломом с отличием.
+        В 2008-м году поступил на <a href="http://www.math.spbu.ru" title="математико-механический факультет">мат-мех</a> <a href="http://www.spbu.ru" title="Санкт-Петербургский государственный университет">СПбГУ</a>,
+        специальность &laquo;<acronym title="математическое обеспечение и администрирование информационных систем">матобес</acronym>&raquo;,
+        <a href="http://se.math.spbu.ru">кафедра системного программирования</a>,
+        специализация <acronym title="технологии программного обеспечения">ТПО</acronym>,
+        который закончил в 2013-м с дипломом с отличием.
     {/ru}
     {en}
         I was born in 1991 in <a href="http://www.ptz.ru">Petrozavodsk</a>, Russia.<br />
         In 1997, I went to <a href="http://school5.karelia.ru">School No.5</a> and studied there for four years.<br />
         In 2001, I transferred to <a href="http://licei-yl.narod.ru">University Lyceum</a> and graduated in 2008 with a gold medal (cum laude).<br />
-        In 2008, I have been admitted to <a href="http://eng.spbu.ru">Saint Petersburg State University</a>, <a href="http://www.math.spbu.ru/eng/">Department of Mathematics and Mechanics</a>, <a href="http://se.math.spbu.ru/SE/en/">Software Engineering Chair</a>, majoring in &laquo;<acronym title="Software and administration of information systems">matobes</acronym>&raquo; (specializing in software technologies), and graduated in 2013 with honors.
+        In 2008, I have been admitted to <a href="http://eng.spbu.ru">Saint Petersburg State University</a>, <a href="http://www.math.spbu.ru/eng/">Department of Mathematics and Mechanics</a>,
+        <a href="http://se.math.spbu.ru/SE/en/">Software Engineering Chair</a>,
+        majoring in &laquo;<acronym title="Software and administration of information systems">matobes</acronym>&raquo; (specializing in software technologies),
+        and graduated in 2013 with honors.
     {/en}
     {de}
         Ich wurde in 1991 in <a href="http://www.ptz.ru">Petrozawodsk</a>, Russland geboren.<br />
@@ -22,23 +29,21 @@
 {record}
     {name}BIO_WORK{/name}
     {ru}
-        Стажировался в&nbsp;<a href="http://vk.com/club53345">летней школе</a> <a href="http://www.openwaygroup.com">OpenWay</a> (2010),
-        в&nbsp;питерском офисе <a href="http://www.google.com">Google</a> (2010&ndash;2011),
-        в&nbsp;токийском офисе <a href="http://www.google.co.jp">Google</a> (2011),
-        в&nbsp;офисе <a href="http://www.facebook.com">Facebook</a> в&nbsp;Калифорнии (2012)
-        и в&nbsp;офисе <a href="http://www.jetbrains.com">JetBrains</a> в&nbsp;Санкт-Петербурге (2012&ndash;2013);
-        работал в&nbsp;<a href="http://www.rocketfuel.com">Rocket Fuel</a> (2013&ndash;2014), в&nbsp;<a href="http://www.twitter.com">Twitter</a> (2014&ndash;2017) и в&nbsp;<a href="http://www.tesla.com">Tesla</a> (2017&ndash;2019) в&nbsp;Калифорнии.<br />
-        Сейчас работаю в&nbsp;<a href="http://www.getcruise.com">Cruise</a> в&nbsp;Сан-Франциско.
+        Стажировался в <a href="http://vk.com/club53345">летней школе</a> <a href="http://www.openwaygroup.com">OpenWay</a>,
+        в <a href="http://www.google.com">Google</a> (в питерском и токийском офисах),
+        в <a href="http://www.facebook.com">Facebook</a> в Калифорнии
+        и в <a href="http://www.jetbrains.com">JetBrains</a> в Санкт-Петербурге (2012&ndash;2013);
+        работал в <a href="http://www.rocketfuel.com">Rocket Fuel</a>, <a href="http://www.twitter.com">Twitter</a>, <a href="http://www.tesla.com">Tesla</a> и <a href="http://www.getcruise.com">Cruise</a>.<br />
+        Сейчас работаю в <a href="https://www.hudsonrivertrading.com">Hudson River Trading</a> в Нью-Йорке.
     {/ru}
     {en}
         Interned at
-        <a href="http://www.openwaygroup.com">OpenWay</a> <a href="http://vk.com/club53345">summer school</a> (2010),
-        <a href="http://www.google.com">Google</a> in St.Petersburg (2010&ndash;2011),
-        <a href="http://www.google.co.jp">Google</a> in Tokyo (2011),
-        <a href="http://www.facebook.com">Facebook</a> in California (2012)
-        and <a href="http://www.jetbrains.com">JetBrains</a> in St.Petersburg (2012&ndash;2013);
-        worked at <a href="http://www.rocketfuel.com">Rocket Fuel</a> (2013&ndash;2014), <a href="http://www.twitter.com">Twitter</a> (2014&ndash;2017), and <a href="http://www.tesla.com">Tesla</a> (2017&ndash;2019) in California.<br />
-        Currently I'm a software engineer at <a href="http://www.getcruise.com">Cruise</a> in San Francisco.
+        <a href="http://www.openwaygroup.com">OpenWay</a> <a href="http://vk.com/club53345">summer school</a>,
+        <a href="http://www.google.com">Google</a> (in St.Petersburg and Tokyo),
+        <a href="http://www.facebook.com">Facebook</a> in California,
+        and <a href="http://www.jetbrains.com">JetBrains</a> in St.Petersburg;
+        worked at <a href="http://www.rocketfuel.com">Rocket Fuel</a>, <a href="http://www.twitter.com">Twitter</a>, <a href="http://www.tesla.com">Tesla</a>, and <a href="http://www.getcruise.com">Cruise</a>.<br />
+        Currently I'm a software engineer at <a href="https://www.hudsonrivertrading.com">Hudson River Trading</a> in New York.
     {/en}
 {/record}
 

@@ -15,17 +15,24 @@
 
     <ul>
       <li>
-        Work projects:
+        Some publications about me and with me:
         <ul>
-          <li><a href="http://search.twitter.com/">Search</a> and <a href="http://www.pantsbuild.org/">Pants</a> &mdash; projects I've contributed to at Twitter</li>
-          <li><a href="http://www.jetbrains.com/idea/">IntelliJ IDEA</a> &mdash; allegedly the best Java IDE which I helped improving at JetBrains</li>
-          <li>****** &mdash; yet-to-be-opensourced distributed job scheduler I've contributed to at Facebook</li>
-          <li><a href="http://insidesearch.blogspot.ru/2012/05/find-places-faster-with-quick-access-to.html">Google Mobile Local Search</a> &mdash; stuff I've been working on at Google Japan</li>
-          <li><a href="http://code.google.com/p/script-cover/">ScriptCover</a> (originally Bug Reduction Tool) &mdash; a Chrome extension I've developed at Google St.Petersburg</li>
+          <li><a href="https://zapuskzavtra.libsyn.com/jky1z4e6stts">Zapusk Zavtra podcast episode (in Russian) about self-driving cars (2021)</a></li>
+          <li><a href="https://blog.twitter.com/engineering/en_us/a/2016/superroot-launching-a-high-sla-production-service-at-twitter">Post in Twitter Engineering Blog (2016)</a></li>
+          <li><a href="https://students.googleblog.com/2011/10/googlers-beta-2011.html">Post in Google Student Blog (2011)</a></li>
+          <li><a href="https://www.youtube.com/watch?v=K6-omEgnZo4">Me winning the Russian TV quiz show Mastermind (2007)</a></li>
         </ul>
       </li>
       <li>
-        Side projects:
+        Work projects (2013&ndash;):
+        <ul>
+          <li><a href="https://www.getcruise.com">Cruise</a> &mdash; the self-driving robotaxi service in San Francisco</li>
+          <li><a href="https://www.tesla.com/autopilot">Tesla Autopilot</a> &mdash; the most advanced driver assistance</li>
+          <li><a href="https://www.pantsbuild.org">Pants</a> &mdash; the reproducible and scalable build system</li>
+          <li><a href="https://search.twitter.com">Twitter Search</a> &mdash; the best way to search for tweets</li>
+        </ul>
+      <li>
+        Side projects (2013&ndash;2016):
         <ul>
           <li><a href="http://serebryakov.info/hearts/">Hearts</a> &mdash; Periscope-like fluttering hearts for any picture or GIF</li>
           <li><a href="http://searchiscope.appspot.com/">Searchiscope</a> &mdash; Latest tweets from anywhere in the world</li>
@@ -35,16 +42,36 @@
         </ul>
       </li>
       <li>
-        University projects:
+        Internship projects (2010&ndash;2013):
+        <ul>
+          <li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a> &mdash; the best Java IDE which I helped improving at JetBrains</li>
+          <li><a href="https://bistro.io">Bistro</a> &mdash; distributed job scheduler I've contributed to at Facebook</li>
+          <li><a href="https://insidesearch.blogspot.ru/2012/05/find-places-faster-with-quick-access-to.html">Google Mobile Local Search</a> &mdash; stuff I've been working on at Google Japan</li>
+          <li><a href="https://code.google.com/p/script-cover/">ScriptCover</a> (originally Bug Reduction Tool) &mdash; a Chrome extension I've developed at Google St.Petersburg</li>
+        </ul>
+      </li>
+      <li>
+        University projects (2009&ndash;2012):
         <ul>
           <li><a href="https://github.com/megaserg/virtual-barbershop">Virtual Barbershop</a> &mdash; a webapp prototype we've put together for the Information Systems course</li>
           <li><a href="http://wwwmayr.informatik.tu-muenchen.de/konferenzen/Jass12/courses/2/index.html">iTravel</a> &mdash; an iPhone app we have prototyped during the JASS 2012 school</li>
-          <li><a href="https://github.com/AChugr/goods-review">GoodsReview</a> (version 2.0 <a href="https://github.com/AChugr/goods-review-ng">here</a>) &mdash; our project at <a href="http://compscicenter.ru/">Computer Science Center</a></li>
+          <li><a href="https://github.com/AChugr/goods-review-ng">GoodsReview</a> &mdash; our project at <a href="http://compscicenter.ru/">Computer Science Center</a></li>
           <li><a href="http://serebryakov.info/lz/newlz/">Demo of the LZ78</a> compressing algorithm</li>
         </ul>
       </li>
       <li>
-        University talks:
+        Research projects (2011&ndash;2013):
+        <ul>
+          <li><a href="http://serebryakov.info/diploma/Serebryakov_Report_545.pdf">Project build technique with aggressive output reuse (ru)</a> (<a href="http://serebryakov.info/diploma/Serebryakov_Slides_545.pdf">slides</a>)<br/>
+          (graduate paper, advisor: Dmitry Boulytchev, 2012–2013)</li>
+          <li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_445.pdf">3D Algorithms in Medicine: Constructing 3D model of a human head from anatomical landmarks (ru)</a><br/>
+          (term paper, advisor: Alexander Petrov, 2011–2012)</li>
+          <li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_345.pdf">Computer Vision: Reconstructing moving object position from noisy video observations (ru)</a><br/>
+          (term paper, advisor: Alexander Vakhitov, 2010–2011)</li>
+        </ul>
+      </li>
+      <li>
+        University talks (2010&ndash;2012):
         <ul>
           <li>
             Talks I've given for the terrific seminar led by <a href="http://edu.dluciv.name">Dmitry Luciv</a>:
@@ -56,17 +83,6 @@
           </li>
           <li>Talk on <a href="http://serebryakov.info/talks/lambda_calculus.pdf">Untyped lambda calculus (ru)</a>, given twice</li>
           <li>Talk on <a href="http://serebryakov.info/talks/aspnet_ajax.pdf">Microsoft ASP.NET Ajax (ru)</a>, given twice</li>
-        </ul>
-      </li>
-      <li>
-        Research projects:
-        <ul>
-          <li><a href="http://serebryakov.info/diploma/Serebryakov_Report_545.pdf">Project build technique with aggressive output reuse (ru)</a> (<a href="http://serebryakov.info/diploma/Serebryakov_Slides_545.pdf">slides</a>)<br/>
-          (graduate paper, advisor: Dmitry Boulytchev, 2012–2013)</li>
-          <li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_445.pdf">3D Algorithms in Medicine: Constructing 3D model of a human head from anatomical landmarks (ru)</a><br/>
-          (term paper, advisor: Alexander Petrov, 2011–2012)</li>
-          <li><a href="http://serebryakov.info/termpaper/Serebryakov_Termpaper_345.pdf">Computer Vision: Reconstructing moving object position from noisy video observations (ru)</a><br/>
-          (term paper, advisor: Alexander Vakhitov, 2010–2011)</li>
         </ul>
       </li>
     </ul>
