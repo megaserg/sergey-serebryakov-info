@@ -1,6 +1,8 @@
 <table align="center" cellspacing="0" cellpadding="0"><tr>
   <td class="leftalign">
+    <!--
     {{PROJECTS_PROJECTLIST}}<br/>
+    -->
 
     <!--
     <ul type="square">
@@ -17,10 +19,10 @@
       <li>
         Some publications about me and with me:
         <ul>
-          <li><a href="https://zapuskzavtra.libsyn.com/jky1z4e6stts">Zapusk Zavtra podcast episode (in Russian) about self-driving cars (2021)</a></li>
-          <li><a href="https://blog.twitter.com/engineering/en_us/a/2016/superroot-launching-a-high-sla-production-service-at-twitter">Post in Twitter Engineering Blog (2016)</a></li>
-          <li><a href="https://students.googleblog.com/2011/10/googlers-beta-2011.html">Post in Google Student Blog (2011)</a></li>
-          <li><a href="https://www.youtube.com/watch?v=K6-omEgnZo4">Me winning the Russian TV quiz show Mastermind (2007)</a></li>
+          <li><a href="https://zapuskzavtra.libsyn.com/jky1z4e6stts">Zapusk Zavtra podcast episode</a> (in Russian) about self-driving cars (2021)</li>
+          <li><a href="https://blog.twitter.com/engineering/en_us/a/2016/superroot-launching-a-high-sla-production-service-at-twitter">Post</a> in Twitter Engineering Blog (2016)</li>
+          <li><a href="https://students.googleblog.com/2011/10/googlers-beta-2011.html">Post </a>in Google Student Blog (2011)</li>
+          <li>Me winning the Russian TV quiz show <a href="https://www.youtube.com/watch?v=K6-omEgnZo4">Mastermind</a> (2007)</li>
         </ul>
       </li>
       <li>
