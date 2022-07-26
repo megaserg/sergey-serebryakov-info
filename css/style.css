@@ -2,7 +2,7 @@ body
 {
     font-family: Georgia, "Palatino Linotype", Sylfaen, Tahoma, serif;
     font-size: 12pt;
-    background-color: #C8C8FF;
+    background-color: #D8D8FF;
 }
 
 table
@@ -75,7 +75,7 @@ a.menulink
 
 a.menulink, a.menulink:visited
 {
-    background-color: #9999FF;
+    background-color: #AAAAFF;
     color: black;
 }
 
