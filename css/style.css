@@ -124,8 +124,8 @@ span.smallnote
 
 acronym
 {
-    padding-bottom: 0px;
-    border-bottom: 1px dotted black;
+    /* padding-bottom: 0px; */
+    /* border-bottom: 1px dotted black; */
     cursor: help;
 }
 
