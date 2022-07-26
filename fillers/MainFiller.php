@@ -8,9 +8,9 @@ class MainFiller extends AbstractFiller {
         $content = $this -> content;
         $content = substMessages($content, $this -> dictionary, $lang);
 
-        $town_link = "http://sfgov.org/";
+        $town_link = "https://www1.nyc.gov";
         //$spbu_link = "http://www.spbu.ru";
-        $company_link = "http://www.getcruise.com";
+        $company_link = "https://www.hudsonrivertrading.com";
 
         $content = str_replace("%TOWN_LINK%", $town_link, $content);
         //$content = str_replace("%SPBU_LINK%", $spbu_link, $content);
