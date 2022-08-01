@@ -29,20 +29,20 @@
 {record}
     {name}BIO_WORK{/name}
     {ru}
-        Стажировался в <a href="http://vk.com/club53345">летней школе</a> <a href="http://www.openwaygroup.com">OpenWay</a>,
+        В университете я стажировался в <a href="http://vk.com/club53345">летней школе</a> <a href="http://www.openwaygroup.com">OpenWay</a>,
         в <a href="http://www.google.com">Google</a> (в питерском и токийском офисах),
         в <a href="http://www.facebook.com">Facebook</a> в Калифорнии
-        и в <a href="http://www.jetbrains.com">JetBrains</a> в Санкт-Петербурге.<br />
-        Работал в <a href="http://www.rocketfuel.com">Rocket Fuel</a>, <a href="http://www.twitter.com">Twitter</a>, <a href="http://www.tesla.com">Tesla</a> и <a href="http://www.getcruise.com">Cruise</a>.<br />
+        и в <a href="http://www.jetbrains.com">JetBrains</a> в Санкт-Петербурге.
+        Потом переехал в Калифорнию и работал в <a href="https://en.wikipedia.org/wiki/Rocket_Fuel_Inc.">Rocket Fuel</a>, <a href="http://www.twitter.com">Twitter</a>, <a href="http://www.tesla.com">Tesla</a> и <a href="http://www.getcruise.com">Cruise</a>.<br />
         Сейчас работаю в <a href="https://www.hudsonrivertrading.com">Hudson River Trading</a> в Нью-Йорке.
     {/ru}
     {en}
-        Interned at
+        While at university, I interned at
         <a href="http://www.openwaygroup.com">OpenWay</a> <a href="http://vk.com/club53345">summer school</a>,
         <a href="http://www.google.com">Google</a> (in St.Petersburg and Tokyo),
         <a href="http://www.facebook.com">Facebook</a> in California,
-        and <a href="http://www.jetbrains.com">JetBrains</a> in St.Petersburg.<br />
-        Worked at <a href="http://www.rocketfuel.com">Rocket Fuel</a>, <a href="http://www.twitter.com">Twitter</a>, <a href="http://www.tesla.com">Tesla</a>, and <a href="http://www.getcruise.com">Cruise</a>.<br />
+        and <a href="http://www.jetbrains.com">JetBrains</a> in St.Petersburg.
+        Then I moved to California and worked at <a href="https://en.wikipedia.org/wiki/Rocket_Fuel_Inc.">Rocket Fuel</a>, <a href="http://www.twitter.com">Twitter</a>, <a href="http://www.tesla.com">Tesla</a>, and <a href="http://www.getcruise.com">Cruise</a>.<br />
         Currently I'm a software engineer at <a href="https://www.hudsonrivertrading.com">Hudson River Trading</a> in New York.
     {/en}
 {/record}

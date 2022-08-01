@@ -26,7 +26,7 @@
         </ul>
       </li>
       <li>
-        Work projects (2013&ndash;):
+        Work projects (2014&ndash;):
         <ul>
           <li><a href="https://www.getcruise.com">Cruise</a> &mdash; the self-driving robotaxi service in San Francisco</li>
           <li><a href="https://www.tesla.com/autopilot">Tesla Autopilot</a> &mdash; the most advanced driver assistance</li>
@@ -39,7 +39,7 @@
           <li><a href="http://serebryakov.info/hearts/">Hearts</a> &mdash; Periscope-like fluttering hearts for any picture or GIF</li>
           <li><a href="http://searchiscope.appspot.com/">Searchiscope</a> &mdash; Latest tweets from anywhere in the world</li>
           <li><a href="https://github.com/megaserg/gototab-chrome-extension">Gototab</a> &mdash; yet-to-be-published Chrome extension similar to Sublime/Atom Command Palette</li>
-          <li><a href="http://serebryakov.info/h1b/">H-1B salaries</a> &mdash; salary distributions foreign employees in US, 2013</li>
+          <li><a href="http://serebryakov.info/h1b/">H-1B salaries</a> &mdash; salary distributions foreign employees in US (2013)</li>
           <li>This website &mdash; employing custom templating/internationalization engine in PHP</li>
         </ul>
       </li>
