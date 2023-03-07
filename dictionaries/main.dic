@@ -18,9 +18,9 @@
 {/record}
 {record}
     {name}MAIN_LIVEANDLEARN{/name}
-    {ru}Живу в <a href="%TOWN_LINK%">Нью-Йорке</a>, работаю в <a href="%COMPANY_LINK%">Hudson River Trading</a>.{/ru}
-    {en}I live in <a href="%TOWN_LINK%">New York</a> and work at <a href="%COMPANY_LINK%">Hudson River Trading</a>.{/en}
-    {de}Ich lebe in <a href="%TOWN_LINK%">New York</a> und arbeite in <a href="%COMPANY_LINK%">Hudson River Trading</a>.{/de}
+    {ru}Живу в <a href="%TOWN_LINK%">Нью-Йорке</a>.{/ru}
+    {en}I live in <a href="%TOWN_LINK%">New York</a>.{/en}
+    {de}Ich lebe in <a href="%TOWN_LINK%">New York</a>.{/de}
 {/record}
 {record}
     {name}MAIN_WHATILOVE{/name}
