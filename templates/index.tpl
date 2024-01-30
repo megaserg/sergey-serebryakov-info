@@ -30,12 +30,5 @@
                 %FOOTER%
             </td></tr>
         </table>
-
-        <!--Openstat-->
-        <span id="openstat2088566"></span>
-        <script type="text/javascript">
-            var openstat = { counter: 2088566, next: openstat }; document.write(unescape("%3Cscript%20src=%22http" + (("https:" == document.location.protocol) ? "s" : "") + "://openstat.net/cnt.js%22%20defer=%22defer%22%3E%3C/script%3E"));
-        </script>
-        <!--/Openstat-->
     </body>
 </html>
