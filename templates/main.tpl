@@ -1,7 +1,6 @@
 <img src="/avatars/me_simpsons.png" width="180" height="180" border="0" alt="{{MAIN_IMAGE_PLACEHOLDER}}" /><br /><br />
 {{MAIN_IAMSERGEY}}<br />
 {{MAIN_THEYCALLME}}<br />
-{{MAIN_LIVEANDLEARN}}<br />
 {{MAIN_WHATILOVE}}<br /><br />
 
 <!--
